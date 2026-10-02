@@ -42,6 +42,23 @@ The following tests were performed:
 - Confirmed the DNS Server role was functioning
 - Confirmed the `quantumedge.local` domain was created successfully
 
+## Screenshots
+
+### Server Identity and Network Configuration
+![DC Hostname and IP Configuration](screenshots/01-hostname-ip.png)
+
+### Installed Server Roles
+![AD DS and DNS Roles](screenshots/02-server-roles.png)
+
+### Active Directory Domain
+![Active Directory Users and Computers](screenshots/03-active-directory.png)
+
+### DNS Configuration
+![DNS Zone](screenshots/04-dns-zone.png)
+
+### Connectivity Validation
+![Connectivity Tests](screenshots/05-connectivity-tests.png)
+
 ## Troubleshooting
 
 During initial network configuration, the VMware NAT gateway became unreachable. Attempted to switch DHCP
