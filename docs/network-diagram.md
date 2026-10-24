@@ -19,7 +19,7 @@
               |
               |
       quantumedge.local
-
+```
 ## Network Details
 
 - VMware Network: NAT / VMnet8
